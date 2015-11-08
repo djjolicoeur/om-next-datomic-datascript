@@ -1,4 +1,5 @@
-lein*
+.lein*
+.nrepl*
 om-next-todo/target
 om-next-test/target
 om-next-test/resources/public/js
