@@ -1,0 +1,11 @@
+{:db/id #db/id[:db.part/user]
+ :todo/title "Write the CLJS part"
+ :todo/description "Need to create a project that bootstraps off this"}
+
+{:db/id #db/id[:db.part/user]
+ :todo/title "Inject entities into datasctipt"
+ :todo/description "Hook it all up"}
+
+{:db/id #db/id[:db.part/user]
+ :todo/title "Keep them synced"
+ :todo/description "Keep them synced via tx reports and callbacks"}
